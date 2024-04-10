@@ -1,3 +1,1 @@
-# CSE110
-Tyler's User Page
-My favorite programming language is C++
+https://tylercooksrice.github.io/CSE110/
