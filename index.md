@@ -9,7 +9,7 @@
 ### 7. [Quote](#favorite-quote)
 ### 8. [Code](#java-code-i-created)
 ### 9. [CSE 15L](#cse-15l)
-### 10. [Goals](#goals)
+### 10. [Goals](#computer-science-goals)
 
 ## Introduction
   My name is **Tyler Khuc**. I am a first year transfer student and a computer science major. Transferring from ***Sacramento***, I attended the _Cosumnes River College_ in ***Sacramento*** before studying at the _University of California of San Diego_. As a programmer, the first language I have learned is ***C++***. The second language I explored was ***Java***. Currently I have been trying to learn ***Python*** and constructing my own website using react. I am learning ***Python*** from this [Youtube](https://www.youtube.com/watch?v=nLRL_NcnK-4) Video. My README.md file is located in this [link](README.md).
@@ -21,24 +21,24 @@
 - Frontend and Backend Development
 - Game Development
 
-## Hobbies
+## Hobbies:
 - Apex Legends
 - Hanging out with friends
 - Playing Piano
 
-### Places I want to go
+### Places I want to go:
 - [x] Japan
 - [x] South Korea
 - [ ] Taiwan
 - [x] Norway
 - [ ] South Africa
 
-### Favorite Food
+### Favorite Food:
 1. Sushi
 2. Fried Chicken
 3. Steak
 
-### Favorite Language
+### Favorite Language:
 1. C++
 2. Java
 3. Python
@@ -163,7 +163,7 @@ public class dateConversion {
 ### CSE 15L
 [Lab Reports](https://tylercooksrice.github.io/cse15l-lab-reports/index)
 
-## Goals
+## Computer Science Goals:
 - [x] Learn HTML
 - [ ] Learn CSS
 - [ ] Learn Javascript
