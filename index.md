@@ -9,7 +9,7 @@
 ### 7. [Goals](#goals)
 
 ## Introduction
-  My name is **Tyler Khuc**. I am a first year transfer student and a computer science major. Transferring from ***Sacramento***, I attended the _ _Cosumnes River College_ _ in ***Sacramento*** before studying at the _ _ University of California of San Diego_ _. As a programmer, the first language I have learned is ***C++***. The second language I explored was ***Java***. Currently I have been trying to learn ***Python*** and constructing my own website using react. I am learning ***Python*** from this [Youtube](https://www.youtube.com/watch?v=nLRL_NcnK-4) Video. My README.md file is located in this [link](README.md).
+  My name is **Tyler Khuc**. I am a first year transfer student and a computer science major. Transferring from ***Sacramento***, I attended the _Cosumnes River College_ in ***Sacramento*** before studying at the _University of California of San Diego_. As a programmer, the first language I have learned is ***C++***. The second language I explored was ***Java***. Currently I have been trying to learn ***Python*** and constructing my own website using react. I am learning ***Python*** from this [Youtube](https://www.youtube.com/watch?v=nLRL_NcnK-4) Video. My README.md file is located in this [link](README.md).
 
 [University of California of San Diego Geisel Library](ucsd.jpg)
 
