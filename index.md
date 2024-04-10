@@ -2,11 +2,13 @@
 ## Table of Contents
 ### 1. [Introduction](#introduction)
 ### 2. [Interests](#what-i-am-interested-in)
-### 3. [Programming Language](#favorite-language)
-### 4. [Quote](#favorite-quote)
-### 5. [Code](#java-code-i-created)
-### 6. [CSE 15L](#cse-15l)
-### 7. [Goals](#goals)
+### 3. [Hobbies](#hobbies)
+### 4. [Programming Language](#favorite-language)
+### 5. [Favorite Food](#favorite-food)
+### 6. [Quote](#favorite-quote)
+### 7. [Code](#java-code-i-created)
+### 8. [CSE 15L](#cse-15l)
+### 9. [Goals](#goals)
 
 ## Introduction
   My name is **Tyler Khuc**. I am a first year transfer student and a computer science major. Transferring from ***Sacramento***, I attended the _Cosumnes River College_ in ***Sacramento*** before studying at the _University of California of San Diego_. As a programmer, the first language I have learned is ***C++***. The second language I explored was ***Java***. Currently I have been trying to learn ***Python*** and constructing my own website using react. I am learning ***Python*** from this [Youtube](https://www.youtube.com/watch?v=nLRL_NcnK-4) Video. My README.md file is located in this [link](README.md).
@@ -23,15 +25,22 @@
 - Hanging out with friends
 - Playing Piano
 
-### Favorite Language
-1. C++
-2. Java
-3. Python
+### Places I want to go
+- [x] Japan
+- [x] South Korea
+- [ ] Taiwan
+- [x] Norway
+- [ ] South Africa
 
 ### Favorite Food
 1. Sushi
 2. Fried Chicken
 3. Steak
+
+### Favorite Language
+1. C++
+2. Java
+3. Python
 
 ![C++](C++.png)
 ![Java](java.png)
@@ -46,7 +55,7 @@ import java.util.Scanner;
 
 public class dateConversion {
      public static void main(String[] args) {
-        String month = ""; // String for month
+      String month = ""; // String for month
 	  String year = ""; // String for year
 	  String day = ""; // String for day
 	  int size = 0; // total size of array
@@ -159,3 +168,4 @@ public class dateConversion {
 - [ ] Learn Javascript
 - [ ] Learn Node.js
 - [ ] Learn React
+
