@@ -23,6 +23,10 @@
 2. Java
 3. Python
 
+![C++](C++.png)
+![Java](java.png)
+![Python](python.png)
+
 ### Favorite Quote
 > "A computer is like a violin.” You can imagine it making beautiful music, but you have to learn how to play it." - Bill Gates
 
