@@ -18,10 +18,20 @@
 - Frontend and Backend Development
 - Game Development
 
+## Hobbies
+- Apex Legends
+- Hanging out with friends
+- Playing Piano
+
 ### Favorite Language
 1. C++
 2. Java
 3. Python
+
+### Favorite Food
+1. Sushi
+2. Fried Chicken
+3. Steak
 
 ![C++](C++.png)
 ![Java](java.png)
