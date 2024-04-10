@@ -3,12 +3,13 @@
 ### 1. [Introduction](#introduction)
 ### 2. [Interests](#what-i-am-interested-in)
 ### 3. [Hobbies](#hobbies)
-### 4. [Programming Language](#favorite-language)
+### 4. [Places I want to go](#places-i-want-to-go)
 ### 5. [Favorite Food](#favorite-food)
-### 6. [Quote](#favorite-quote)
-### 7. [Code](#java-code-i-created)
-### 8. [CSE 15L](#cse-15l)
-### 9. [Goals](#goals)
+### 6. [Programming Language](#favorite-language)
+### 7. [Quote](#favorite-quote)
+### 8. [Code](#java-code-i-created)
+### 9. [CSE 15L](#cse-15l)
+### 10. [Goals](#goals)
 
 ## Introduction
   My name is **Tyler Khuc**. I am a first year transfer student and a computer science major. Transferring from ***Sacramento***, I attended the _Cosumnes River College_ in ***Sacramento*** before studying at the _University of California of San Diego_. As a programmer, the first language I have learned is ***C++***. The second language I explored was ***Java***. Currently I have been trying to learn ***Python*** and constructing my own website using react. I am learning ***Python*** from this [Youtube](https://www.youtube.com/watch?v=nLRL_NcnK-4) Video. My README.md file is located in this [link](README.md).
